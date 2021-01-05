@@ -11,8 +11,6 @@ terraform {
     dynamodb_table = "terraform-lock"
     region         = "us-east-2"
     profile        = "Testing"
-    access_key     = "AKIAJ5XM62NZLHESK4SA"
-    secret_key     = "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"
   }
 }
 
